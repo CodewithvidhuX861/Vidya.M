@@ -76,4 +76,3 @@ def delete_student(id):
     }), 200
 if __name__ == '_main_':
     app.run(debug=True)
-
